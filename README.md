@@ -33,7 +33,7 @@ mv {DOWNLOAD_DIR}/ffqh_10m.pt ./model_zoo/
 
 ```
 
-Do not forget to rename "ffhq_10m" to "diffusion_ffhq_m" for code consistency.
+Do not forget to rename "ffhq_10m" to "diffusion_ffhq_10m" for code consistency.
 
   
 
