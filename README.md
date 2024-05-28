@@ -15,9 +15,9 @@ ___________
 
 ```bash
 
-git clone https://github.com/yuanzhi-zhu/DiffPIR.git
+git clone https://github.com/Chilie/DiffFPR.git
 
-cd DiffPIR
+cd DiffFPR
 
 pip install -r requirements.txt
 
